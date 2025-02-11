@@ -1,1 +1,17 @@
 
+.header {
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+.logo{
+    width: 120px;
+}
+.navlist {
+    display:flex;
+    gap: 20px;
+}
