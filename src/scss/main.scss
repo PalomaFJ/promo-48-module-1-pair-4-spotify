@@ -1,17 +1,4 @@
-/*Reseteo*/
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-    list-style: none;
-}
-
-a{
-    color: inherit;
-    text-decoration: none;
-}
-/*Reseteo*/
-
+@use 'core/reset';
 @use 'layout/header';
 @use 'layout/hero';
 @use 'layout/whithe-section';
