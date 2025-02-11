@@ -1,0 +1,44 @@
+<<<<<<< HEAD:style/style.css
+.header {
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+.logo{
+    width: 120px;
+}
+.navlist {
+    display:flex;
+    gap: 20px;
+}
+.main {
+    display: flex;
+}
+=======
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.header {
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:0;
+
+}
+
+>>>>>>> 5f8f26c7eea2dafa1a708ca3de94753bf594de13:src/scss/main.scss
